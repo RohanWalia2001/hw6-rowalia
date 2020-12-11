@@ -1,0 +1,9 @@
+*.o
+
+benchmark
+
+cache_server
+
+test_cache_store
+
+test_cache_client
